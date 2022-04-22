@@ -20,4 +20,8 @@ module.exports = {
   githubUrl: 'https://github.com/jjames521/concept-design-system',
   // The name of your design system NPM package. This replaces the {{npm}} template in documentation content.'
   npmPackage: '@mpds/design-system',
+  presets: [
+    ['@babel/preset-env', { targets: { node: 'current' } }],
+    ['@babel/preset-react', { targets: { node: 'current' } }],
+  ],
 };
