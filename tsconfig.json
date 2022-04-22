@@ -13,7 +13,8 @@
       "@design-system": [
         "packages/design-system/src",
         "packages/ds-medicare-gov/src",
-        "packages/ds-healthcare-gov/src"
+        "packages/ds-healthcare-gov/src",
+        "packages/ds-macpro-gov/src"
       ]
     }
   },

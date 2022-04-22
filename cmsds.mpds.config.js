@@ -4,7 +4,7 @@ module.exports = {
   // Flag for whether this package exists in our monorepo
   monorepo: true,
   // The relative path to the directory containing the design system package `src`. The design system build files will be saved here under "dist".
-  sourceDir: './packages/design-system',
+  sourceDir: './packages/ds-macpro-gov',
   // The relative path to the directory containing the doc site `src`. The doc site build files will be saved here under "dist".
   docsDir: './packages/design-system-docs',
   // Flag enabling typescript support. When `true`, .ts/.tsx files will be compilied and typescript definition files will be generated. Requires tsconfig.json to be defined.
