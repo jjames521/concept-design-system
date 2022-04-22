@@ -13,7 +13,7 @@ module.exports = {
   minifySvg: true,
 
   // The URL root path for the published docs site. I.e. if your docs site is hosted at www.domain.com/design/ your rootPath would be `design`. `rootPath` is only used when building for production.
-  rootPath: '',
+  rootPath: 'design-system/mpds',
   // Name of the design system. This replaces the {{name}} template in documentation content.
   name: 'MACPRO Design System',
   // The URL for your GitHub repository. This replaces the {{github}} template in documentation content.
