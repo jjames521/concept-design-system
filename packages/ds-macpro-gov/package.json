@@ -1,6 +1,6 @@
 {
   "name": "@mpds/ds-macpro-gov",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MACPRO Design System Component Package",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -35,26 +35,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-select": "^5.3.0"
-  },
-  "babel": {
-    "presets": [
-      [
-        "@babel/preset-env",
-        {
-          "targets": {
-            "node": "current"
-          }
-        }
-      ],
-      [
-        "@babel/preset-react",
-        {
-          "targets": {
-            "node": "current"
-          }
-        }
-      ]
-    ]
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",

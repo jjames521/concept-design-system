@@ -1,6 +1,6 @@
 # MACPro Design System
 
-[![npm](https://img.shields.io/npm/v/@cmsgov/ds-medicare-gov.svg?label=@cmsgov%2Fds-medicare-gov)](https://www.npmjs.com/package/@cmsgov/ds-medicare-gov)
+[![npm](https://img.shields.io/npm/v/@mpds/ds-macpro-gov?style=for-the-badge)](https://www.npmjs.com/package/@mpds/ds-macpro-gov)
 
 [>> **View the full documentation site here** <<](https://cmsgov.github.io/design-system)
 
